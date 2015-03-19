@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        Hots Logs Hero Statistics
+// @name        Hots Logs Improver
 // @namespace   hots_stats
 // @include     https://www.hotslogs.com/Player/Profile*
 // @version     1
